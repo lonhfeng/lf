@@ -1,2 +1,2 @@
-git in a version control system
+git in a  distributed version control system
 git is free software
